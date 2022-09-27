@@ -1,0 +1,3 @@
+[submodule "bootstarp-templates"]
+	path = bootstarp-templates
+	url = https://github.com/mohamad-supangat/bootstrap-templates.git
